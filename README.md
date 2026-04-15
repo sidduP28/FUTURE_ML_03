@@ -23,7 +23,7 @@ The system uses a **hybrid scoring formula** that combines semantic similarity (
 |------|-------------|
 | `Resume.csv` | Resumes with `Category`, `Resume_str`, `Resume_html` fields |
 
-> Source: [Kaggle — Resume Dataset](https://www.kaggle.com/datasets/gauravduttakiit/resume-dataset)
+> Source: [Kaggle — Resume Dataset](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)
 > 24 job categories · 962 resumes
 
 ---
